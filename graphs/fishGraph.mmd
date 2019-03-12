@@ -1,0 +1,17 @@
+graph TD
+A[Forecast] -->|Sunny| B[Wind]
+A-->|Cloudy| C{Yes}
+A-->|Rainy| D[Air]
+
+B-->|Strong| E{Yes}
+B-->|Weak| F[Water]
+
+F-->|Cold| G{No}
+F-->|Moderate| H{Yes}
+F-->|Warm| I{No}
+
+D-->|Cool| J{No}
+D--> |Warm| K[Wind]
+
+K--> |Weak| L{No}
+K--> |Strong| M{Strong}

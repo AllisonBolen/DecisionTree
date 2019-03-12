@@ -1,0 +1,744 @@
+{
+  "safety": {
+    "high": {
+      "persons": {
+        "2": "poor",
+        "4": {
+          "cost": {
+            "high": {
+              "maintenance": {
+                "high": "acceptable",
+                "low": "acceptable",
+                "medium": "acceptable",
+                "vhigh": "poor"
+              }
+            },
+            "low": {
+              "maintenance": {
+                "high": {
+                  "trunk": {
+                    "big": "vgood",
+                    "medium": {
+                      "doors": {
+                        "2": "acceptable",
+                        "3": "acceptable",
+                        "4": "vgood",
+                        "5": "vgood"
+                      }
+                    },
+                    "small": "acceptable"
+                  }
+                },
+                "low": {
+                  "trunk": {
+                    "big": "vgood",
+                    "medium": {
+                      "doors": {
+                        "2": "good",
+                        "3": "good",
+                        "4": "vgood",
+                        "5": "vgood"
+                      }
+                    },
+                    "small": "good"
+                  }
+                },
+                "medium": {
+                  "trunk": {
+                    "big": "vgood",
+                    "medium": {
+                      "doors": {
+                        "2": "good",
+                        "3": "good",
+                        "4": "vgood",
+                        "5": "vgood"
+                      }
+                    },
+                    "small": "good"
+                  }
+                },
+                "vhigh": "acceptable"
+              }
+            },
+            "medium": {
+              "maintenance": {
+                "high": "acceptable",
+                "low": {
+                  "trunk": {
+                    "big": "vgood",
+                    "medium": {
+                      "doors": {
+                        "2": "good",
+                        "3": "good",
+                        "4": "vgood",
+                        "5": "vgood"
+                      }
+                    },
+                    "small": "good"
+                  }
+                },
+                "medium": {
+                  "trunk": {
+                    "big": "vgood",
+                    "medium": {
+                      "doors": {
+                        "2": "acceptable",
+                        "3": "acceptable",
+                        "4": "vgood",
+                        "5": "vgood"
+                      }
+                    },
+                    "small": "acceptable"
+                  }
+                },
+                "vhigh": "acceptable"
+              }
+            },
+            "vhigh": {
+              "maintenance": {
+                "high": "poor",
+                "low": "acceptable",
+                "medium": "acceptable",
+                "vhigh": "poor"
+              }
+            }
+          }
+        },
+        "6": {
+          "cost": {
+            "high": {
+              "maintenance": {
+                "high": {
+                  "doors": {
+                    "2": {
+                      "trunk": {
+                        "big": "acceptable",
+                        "medium": "acceptable",
+                        "small": "poor"
+                      }
+                    },
+                    "3": "acceptable",
+                    "4": "acceptable",
+                    "5": "acceptable"
+                  }
+                },
+                "low": {
+                  "doors": {
+                    "2": {
+                      "trunk": {
+                        "big": "acceptable",
+                        "medium": "acceptable",
+                        "small": "poor"
+                      }
+                    },
+                    "3": "acceptable",
+                    "4": "acceptable",
+                    "5": "acceptable"
+                  }
+                },
+                "medium": {
+                  "doors": {
+                    "2": {
+                      "trunk": {
+                        "big": "acceptable",
+                        "medium": "acceptable",
+                        "small": "poor"
+                      }
+                    },
+                    "3": "acceptable",
+                    "4": "acceptable",
+                    "5": "acceptable"
+                  }
+                },
+                "vhigh": "poor"
+              }
+            },
+            "low": {
+              "maintenance": {
+                "high": {
+                  "trunk": {
+                    "big": "vgood",
+                    "medium": {
+                      "doors": {
+                        "2": "acceptable",
+                        "3": "vgood",
+                        "4": "vgood",
+                        "5": "vgood"
+                      }
+                    },
+                    "small": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "acceptable",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    }
+                  }
+                },
+                "low": {
+                  "trunk": {
+                    "big": "vgood",
+                    "medium": {
+                      "doors": {
+                        "2": "good",
+                        "3": "vgood",
+                        "4": "vgood",
+                        "5": "vgood"
+                      }
+                    },
+                    "small": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "good",
+                        "4": "good",
+                        "5": "good"
+                      }
+                    }
+                  }
+                },
+                "medium": {
+                  "trunk": {
+                    "big": "vgood",
+                    "medium": {
+                      "doors": {
+                        "2": "good",
+                        "3": "vgood",
+                        "4": "vgood",
+                        "5": "vgood"
+                      }
+                    },
+                    "small": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "good",
+                        "4": "good",
+                        "5": "good"
+                      }
+                    }
+                  }
+                },
+                "vhigh": {
+                  "doors": {
+                    "2": {
+                      "trunk": {
+                        "big": "acceptable",
+                        "medium": "acceptable",
+                        "small": "poor"
+                      }
+                    },
+                    "3": "acceptable",
+                    "4": "acceptable",
+                    "5": "acceptable"
+                  }
+                }
+              }
+            },
+            "medium": {
+              "maintenance": {
+                "high": {
+                  "doors": {
+                    "2": {
+                      "trunk": {
+                        "big": "acceptable",
+                        "medium": "acceptable",
+                        "small": "poor"
+                      }
+                    },
+                    "3": "acceptable",
+                    "4": "acceptable",
+                    "5": "acceptable"
+                  }
+                },
+                "low": {
+                  "trunk": {
+                    "big": "vgood",
+                    "medium": {
+                      "doors": {
+                        "2": "good",
+                        "3": "vgood",
+                        "4": "vgood",
+                        "5": "vgood"
+                      }
+                    },
+                    "small": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "good",
+                        "4": "good",
+                        "5": "good"
+                      }
+                    }
+                  }
+                },
+                "medium": {
+                  "trunk": {
+                    "big": "vgood",
+                    "medium": {
+                      "doors": {
+                        "2": "acceptable",
+                        "3": "vgood",
+                        "4": "vgood",
+                        "5": "vgood"
+                      }
+                    },
+                    "small": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "acceptable",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    }
+                  }
+                },
+                "vhigh": {
+                  "doors": {
+                    "2": {
+                      "trunk": {
+                        "big": "acceptable",
+                        "medium": "acceptable",
+                        "small": "poor"
+                      }
+                    },
+                    "3": "acceptable",
+                    "4": "acceptable",
+                    "5": "acceptable"
+                  }
+                }
+              }
+            },
+            "vhigh": {
+              "maintenance": {
+                "high": "poor",
+                "low": {
+                  "doors": {
+                    "2": {
+                      "trunk": {
+                        "big": "acceptable",
+                        "medium": "acceptable",
+                        "small": "poor"
+                      }
+                    },
+                    "3": "acceptable",
+                    "4": "acceptable",
+                    "5": "acceptable"
+                  }
+                },
+                "medium": {
+                  "doors": {
+                    "2": {
+                      "trunk": {
+                        "big": "acceptable",
+                        "medium": "acceptable",
+                        "small": "poor"
+                      }
+                    },
+                    "3": "acceptable",
+                    "4": "acceptable",
+                    "5": "acceptable"
+                  }
+                },
+                "vhigh": "poor"
+              }
+            }
+          }
+        }
+      }
+    },
+    "low": "poor",
+    "medium": {
+      "persons": {
+        "2": "poor",
+        "4": {
+          "cost": {
+            "high": {
+              "trunk": {
+                "big": {
+                  "maintenance": {
+                    "high": "acceptable",
+                    "low": "acceptable",
+                    "medium": "acceptable",
+                    "vhigh": "poor"
+                  }
+                },
+                "medium": {
+                  "doors": {
+                    "2": "poor",
+                    "3": "poor",
+                    "4": {
+                      "maintenance": {
+                        "high": "acceptable",
+                        "low": "acceptable",
+                        "medium": "acceptable",
+                        "vhigh": "poor"
+                      }
+                    },
+                    "5": {
+                      "maintenance": {
+                        "high": "acceptable",
+                        "low": "acceptable",
+                        "medium": "acceptable",
+                        "vhigh": "poor"
+                      }
+                    }
+                  }
+                },
+                "small": "poor"
+              }
+            },
+            "low": {
+              "maintenance": {
+                "high": "acceptable",
+                "low": {
+                  "trunk": {
+                    "big": "good",
+                    "medium": {
+                      "doors": {
+                        "2": "acceptable",
+                        "3": "acceptable",
+                        "4": "good",
+                        "5": "good"
+                      }
+                    },
+                    "small": "acceptable"
+                  }
+                },
+                "medium": {
+                  "trunk": {
+                    "big": "good",
+                    "medium": {
+                      "doors": {
+                        "2": "acceptable",
+                        "3": "acceptable",
+                        "4": "good",
+                        "5": "good"
+                      }
+                    },
+                    "small": "acceptable"
+                  }
+                },
+                "vhigh": {
+                  "trunk": {
+                    "big": "acceptable",
+                    "medium": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "poor",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    },
+                    "small": "poor"
+                  }
+                }
+              }
+            },
+            "medium": {
+              "maintenance": {
+                "high": {
+                  "trunk": {
+                    "big": "acceptable",
+                    "medium": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "poor",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    },
+                    "small": "poor"
+                  }
+                },
+                "low": {
+                  "trunk": {
+                    "big": "good",
+                    "medium": {
+                      "doors": {
+                        "2": "acceptable",
+                        "3": "acceptable",
+                        "4": "good",
+                        "5": "good"
+                      }
+                    },
+                    "small": "acceptable"
+                  }
+                },
+                "medium": "acceptable",
+                "vhigh": {
+                  "trunk": {
+                    "big": "acceptable",
+                    "medium": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "poor",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    },
+                    "small": "poor"
+                  }
+                }
+              }
+            },
+            "vhigh": {
+              "maintenance": {
+                "high": "poor",
+                "low": {
+                  "trunk": {
+                    "big": "acceptable",
+                    "medium": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "poor",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    },
+                    "small": "poor"
+                  }
+                },
+                "medium": {
+                  "trunk": {
+                    "big": "acceptable",
+                    "medium": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "poor",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    },
+                    "small": "poor"
+                  }
+                },
+                "vhigh": "poor"
+              }
+            }
+          }
+        },
+        "6": {
+          "cost": {
+            "high": {
+              "trunk": {
+                "big": {
+                  "maintenance": {
+                    "high": "acceptable",
+                    "low": "acceptable",
+                    "medium": "acceptable",
+                    "vhigh": "poor"
+                  }
+                },
+                "medium": {
+                  "maintenance": {
+                    "high": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "acceptable",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    },
+                    "low": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "acceptable",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    },
+                    "medium": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "acceptable",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    },
+                    "vhigh": "poor"
+                  }
+                },
+                "small": "poor"
+              }
+            },
+            "low": {
+              "maintenance": {
+                "high": {
+                  "doors": {
+                    "2": {
+                      "trunk": {
+                        "big": "acceptable",
+                        "medium": "acceptable",
+                        "small": "poor"
+                      }
+                    },
+                    "3": "acceptable",
+                    "4": "acceptable",
+                    "5": "acceptable"
+                  }
+                },
+                "low": {
+                  "trunk": {
+                    "big": "good",
+                    "medium": {
+                      "doors": {
+                        "2": "acceptable",
+                        "3": "good",
+                        "4": "good",
+                        "5": "good"
+                      }
+                    },
+                    "small": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "acceptable",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    }
+                  }
+                },
+                "medium": {
+                  "trunk": {
+                    "big": "good",
+                    "medium": {
+                      "doors": {
+                        "2": "acceptable",
+                        "3": "good",
+                        "4": "good",
+                        "5": "good"
+                      }
+                    },
+                    "small": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "acceptable",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    }
+                  }
+                },
+                "vhigh": {
+                  "trunk": {
+                    "big": "acceptable",
+                    "medium": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "acceptable",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    },
+                    "small": "poor"
+                  }
+                }
+              }
+            },
+            "medium": {
+              "maintenance": {
+                "high": {
+                  "trunk": {
+                    "big": "acceptable",
+                    "medium": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "acceptable",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    },
+                    "small": "poor"
+                  }
+                },
+                "low": {
+                  "trunk": {
+                    "big": "good",
+                    "medium": {
+                      "doors": {
+                        "2": "acceptable",
+                        "3": "good",
+                        "4": "good",
+                        "5": "good"
+                      }
+                    },
+                    "small": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "acceptable",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    }
+                  }
+                },
+                "medium": {
+                  "doors": {
+                    "2": {
+                      "trunk": {
+                        "big": "acceptable",
+                        "medium": "acceptable",
+                        "small": "poor"
+                      }
+                    },
+                    "3": "acceptable",
+                    "4": "acceptable",
+                    "5": "acceptable"
+                  }
+                },
+                "vhigh": {
+                  "trunk": {
+                    "big": "acceptable",
+                    "medium": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "acceptable",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    },
+                    "small": "poor"
+                  }
+                }
+              }
+            },
+            "vhigh": {
+              "maintenance": {
+                "high": "poor",
+                "low": {
+                  "trunk": {
+                    "big": "acceptable",
+                    "medium": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "acceptable",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    },
+                    "small": "poor"
+                  }
+                },
+                "medium": {
+                  "trunk": {
+                    "big": "acceptable",
+                    "medium": {
+                      "doors": {
+                        "2": "poor",
+                        "3": "acceptable",
+                        "4": "acceptable",
+                        "5": "acceptable"
+                      }
+                    },
+                    "small": "poor"
+                  }
+                },
+                "vhigh": "poor"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

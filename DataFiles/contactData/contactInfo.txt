@@ -1,0 +1,8 @@
+3
+soft,hard,none
+4
+age,3,young,pre-presbyopic,presbyopic
+prescription,2,myope,hypermetrope
+astigmatism,2,no,yes
+tear-rate,2,reduced,normal
+24

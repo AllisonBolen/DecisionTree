@@ -1,0 +1,15 @@
+@relation 'train-weka.filters.unsupervised.attribute.Reorder-R1,2,3,4,5,6,7'
+
+@attribute Wind {strong}
+@attribute Temp {warm,cold}
+@attribute Water {warm,cold}
+@attribute Time {am,pm}
+@attribute Sky {sunny,rainy}
+@attribute Day {weekend,weekday}
+@attribute Class {yes,no}
+
+@data
+strong,warm,warm,am,sunny,weekend,yes
+strong,warm,warm,pm,sunny,weekend,yes
+strong,cold,warm,pm,rainy,weekday,no
+strong,warm,cold,pm,sunny,weekday,yes

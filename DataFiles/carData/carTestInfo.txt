@@ -1,0 +1,10 @@
+4
+poor,acceptable,good,vgood
+6
+cost,4,vhigh,high,medium,low
+maintenance,4,vhigh,high,medium,low
+doors,4,2,3,4,5
+persons,3,2,4,6
+trunk,3,small,medium,big
+safety,3,low,medium,high
+492

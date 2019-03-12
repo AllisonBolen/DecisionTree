@@ -1,0 +1,13 @@
+@relation test
+
+@attribute Wind {strong,light}
+@attribute Temp {warm,cold}
+@attribute Water {cold,warm}
+@attribute Time {am}
+@attribute Sky {sunny,rainy}
+@attribute Day {weekend,weekday}
+@attribute Class {yes,no}
+
+@data
+strong,warm,cold,am,sunny,weekend,yes
+light,cold,warm,am,rainy,weekday,no

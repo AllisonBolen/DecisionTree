@@ -1,0 +1,10 @@
+2
+yes,no
+6
+Wind,2,strong,light
+Temp,2,warm,cold
+Water,2,warm,cold
+Time,2,am,pm
+Sky,2,rainy,sunny
+Day,2,weekend,weekday
+4
